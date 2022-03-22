@@ -1,0 +1,14 @@
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\SelectionStatementsE1\SelectionStatementsE1\bin\Debug\netcoreapp3.1\SelectionStatementsE1.exe
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\SelectionStatementsE1\SelectionStatementsE1\bin\Debug\netcoreapp3.1\SelectionStatementsE1.deps.json
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\SelectionStatementsE1\SelectionStatementsE1\bin\Debug\netcoreapp3.1\SelectionStatementsE1.runtimeconfig.json
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\SelectionStatementsE1\SelectionStatementsE1\bin\Debug\netcoreapp3.1\SelectionStatementsE1.runtimeconfig.dev.json
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\SelectionStatementsE1\SelectionStatementsE1\bin\Debug\netcoreapp3.1\SelectionStatementsE1.dll
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\SelectionStatementsE1\SelectionStatementsE1\bin\Debug\netcoreapp3.1\SelectionStatementsE1.pdb
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\SelectionStatementsE1\SelectionStatementsE1\obj\Debug\netcoreapp3.1\SelectionStatementsE1.csproj.AssemblyReference.cache
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\SelectionStatementsE1\SelectionStatementsE1\obj\Debug\netcoreapp3.1\SelectionStatementsE1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\SelectionStatementsE1\SelectionStatementsE1\obj\Debug\netcoreapp3.1\SelectionStatementsE1.AssemblyInfoInputs.cache
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\SelectionStatementsE1\SelectionStatementsE1\obj\Debug\netcoreapp3.1\SelectionStatementsE1.AssemblyInfo.cs
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\SelectionStatementsE1\SelectionStatementsE1\obj\Debug\netcoreapp3.1\SelectionStatementsE1.csproj.CoreCompileInputs.cache
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\SelectionStatementsE1\SelectionStatementsE1\obj\Debug\netcoreapp3.1\SelectionStatementsE1.dll
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\SelectionStatementsE1\SelectionStatementsE1\obj\Debug\netcoreapp3.1\SelectionStatementsE1.pdb
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\SelectionStatementsE1\SelectionStatementsE1\obj\Debug\netcoreapp3.1\SelectionStatementsE1.genruntimeconfig.cache
