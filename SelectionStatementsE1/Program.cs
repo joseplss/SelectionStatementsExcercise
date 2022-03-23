@@ -11,19 +11,23 @@ namespace SelectionStatementsE1
             var userInput = int.Parse(Console.ReadLine());
 
             var r = new Random();
-            var favNumber = r.Next(1, 1000);
-            if (userInput < favNumber)
+            var favNumber = r.Next(1, 10);
+            do //doing a loop for user to keep trying
             {
-                Console.WriteLine("Your guess is too low!");
-            }
-            else if (userInput > favNumber)
-            {
-                Console.WriteLine("Your guess is too high!");
-            }
-            else
-            {
-                Console.WriteLine("Nevermind...");
-            }
+                if (userInput < favNumber)
+                {
+                    Console.WriteLine("Your guess is too low!");
+                    userInput = int.Parse(Console.ReadLine());
+                }
+                else  if(userInput > favNumber)
+                {
+                    Console.WriteLine("Your guess is too high!");
+                    userInput = int.Parse(Console.ReadLine());
+                }
+                else Console.WriteLine("Nevermind..."); ;
+            } while (userInput != favNumber); //has to keep going until parameters are met
+            Console.WriteLine($"You're right! My favorite number is {favNumber}");
+
             /*--------------------END EXCERCISE 1--------------------*/
             Console.WriteLine("\nEnter any key to continue...");
             Console.ReadLine();
